@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="splash_message">Welcome</string>
+    <string name="login_textview">LOGIN</string>
+    <string name="pswd_textview">Password</string>
+    <string name="login_btn">LOGIN</string>
+    <string name="home_btn">Home</string>
+</resources>
